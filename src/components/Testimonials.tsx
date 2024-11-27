@@ -2,9 +2,9 @@ import Image from "next/image";
 import React from "react";
 import { Container } from "@/components/Container";
 
-import userOneImg from "../../public/img/user1.jpg";
-import userTwoImg from "../../public/img/user2.jpg";
-import userThreeImg from "../../public/img/user3.jpg";
+import userOneImg from "../../public/img/user1.png";
+import userTwoImg from "../../public/img/user2.png";
+import userThreeImg from "../../public/img/user3.png";
 
 export const Testimonials = () => {
   return (
@@ -13,42 +13,42 @@ export const Testimonials = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Share a real <Mark>testimonial</Mark>
-              that hits some of your benefits from one of your popular customer.
+              Text <Mark>HAHZ</Mark> at (470) 762-9442 about anything questions about
+              the game or how to become spiritually wealthy. Coming soon.
             </p>
 
             <Avatar
               image={userOneImg}
-              name="Sarah Steiner"
-              title="VP Sales at Google"
+              name="SMS"
+              title="Text HAHZ"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Make sure you only pick the <Mark>right sentence</Mark>
-              to keep it short and simple.
+              Earn branded <Mark>TikTok AR</Mark> effects and LUV NFTs for winning
+              HAHZ meme coin challenges.
             </p>
 
             <Avatar
               image={userTwoImg}
-              name="Dylan Ambrose"
-              title="Lead marketer at Netflix"
+              name="TikTok"
+              title="Branded AR effects"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              This is an <Mark>awesome</Mark> landing page template I&apos;ve
-              seen. I would use this for anything.
+              Level up and earn a LOVE <Mark>Solana QR POS</Mark> with a branded
+              HAHZ.live subdomain and your Phantom Username added our Link in bio.
             </p>
 
             <Avatar
               image={userThreeImg}
-              name="Gabrielle Winn"
-              title="Co-founder of Acme Inc"
+              name="POS"
+              title="Solana POS"
             />
           </div>
         </div>
@@ -87,7 +87,7 @@ function Mark(props: { readonly children: React.ReactNode }) {
   return (
     <>
       {" "}
-      <mark className="text-indigo-800 bg-indigo-100 rounded-md ring-indigo-100 ring-4 dark:ring-indigo-900 dark:bg-indigo-900 dark:text-indigo-200">
+      <mark className="text-green-800 bg-green-100 rounded-md ring-green-100 ring-4 dark:ring-green-900 dark:bg-green-900 dark:text-green-200">
         {props.children}
       </mark>{" "}
     </>

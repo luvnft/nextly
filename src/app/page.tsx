@@ -13,34 +13,36 @@ export default function Home() {
     <Container>
       <Hero />
       <SectionTitle
-        preTitle="Nextly Benefits"
-        title=" Why should you use this landing page"
-      >
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        preTitle="Spiritual Game"
+        title="IN HAHZ WE TRUST"
+      > 
+        The HAHZ LOVE Manifestation Game is a positivity-driven social game where
+        players have one job: to keep other holders' vibes high by sharing positive
+        energy in their comments, DMs, or in real life, or even by helping them with
+        something they’re manifesting. In return, the person who receives the positive
+        vibes will tip the player who raised their vibe with HAHZ LOVE to their Solana
+        Phantom wallet (@username). The rule is simple: if you doubt your spiritual wealth,
+        you lose the game. 
       </SectionTitle>
 
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
 
       <SectionTitle
-        preTitle="Watch a video"
-        title="Learn how to fullfil your needs"
+        preTitle="HOW TO PLAY"
+        title="Spirit Game Guide"
       >
-        This section is to highlight a promo or demo video of your product.
-        Analysts says a landing page with video has 3% more conversion rate. So,
-        don&apos;t forget to add one. Just like this.
+        All you need is a Phantom wallet username and LOVE meme coins.
       </SectionTitle>
 
-      <Video videoId="fZ0D0cnR88E" />
+      <Video videoId="v=_rhndty3FVk" />
 
       <SectionTitle
-        preTitle="Testimonials"
-        title="Here's what our customers said"
+        preTitle="ROADMAP"
+        title="Level up"
       >
-        Testimonials is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        Every historic moment in the game is tokenized as a LUV NFT and
+        airdropped to the playa to allow others to support them to earn more LOVE. 
       </SectionTitle>
 
       <Testimonials />

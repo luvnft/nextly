@@ -1,60 +1,50 @@
-import {
-  FaceSmileIcon,
-  ChartBarSquareIcon,
-  CursorArrowRaysIcon,
-  DevicePhoneMobileIcon,
-  AdjustmentsHorizontalIcon,
-  SunIcon,
-} from "@heroicons/react/24/solid";
-
 import benefitOneImg from "../../public/img/benefit-one.png";
 import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "HAHZ",
+  desc: "HAHZ is a spiritual guy who helps holders elevate their vibrations with daily meme content and reminders, accelerating their manifestation of wealth.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
-      icon: <FaceSmileIcon />,
+      title: "STAFF",
+      desc: "HAHZ didn’t hire or fire staff; instead, he manifested a way to turn the world into his team, earning a living by making memes because he is spiritual.",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>⚚</span>, // Centered emoji
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
-      icon: <ChartBarSquareIcon />,
+      title: "MARKET",
+      desc: "HAHZ manifested LOVE being the #1 memecoin in the world so he didn't have to wake up and go to a 9-5 because he is spiritual.",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>📊</span>, // Centered emoji
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
-      icon: <CursorArrowRaysIcon />,
+      title: "ONE",
+      desc: "HAHZ manifested healing the world with one LOVE because he is spiritual.",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>🌍</span>, // Centered emoji
     },
   ],
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "LOVE",
+  desc: "The HAHZ alchemy formula to manifesting spiritual wealth is LOVE, fun first and being of service to other holders.",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
-      icon: <DevicePhoneMobileIcon />,
+      title: "1B",
+      desc: "One billion LOVE Solana tokens exist, no one starves playing our for purpose LOVE games.",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>🖤</span>, // Centered emoji
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
-      icon: <AdjustmentsHorizontalIcon />,
+      title: "Purpose Economy",
+      desc: "HAHZ LOVE powers the purpose creator economy, work on helping others onboard to level up.",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>💼</span>, // Centered emoji
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
-      icon: <SunIcon />,
+      title: "Airdrop",
+      desc: "Receive LOVE 24/7/365 from other playas around the world, meet up in IRL or online and raise each others vibes.",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>⚡</span>, // Centered emoji
     },
   ],
 };
 
-
-export {benefitOne, benefitTwo};
+export { benefitOne, benefitTwo };
