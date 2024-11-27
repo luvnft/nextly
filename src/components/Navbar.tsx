@@ -6,11 +6,11 @@ import { Disclosure } from "@headlessui/react";
 
 export const Navbar = () => {
   const navigation = [
-    "Product",
-    "Features",
-    "Pricing",
-    "Company",
-    "Blog",
+    "",
+    "",
+    "",
+    "",
+    "",
   ];
 
   return (
@@ -28,7 +28,7 @@ export const Navbar = () => {
                   className="w-8"
                 />
               </span>
-            <span>Nextly</span>
+            <span>LOVE.</span>
           </span>
         </Link>
 
@@ -36,8 +36,8 @@ export const Navbar = () => {
         <div className="gap-3 nav__item mr-2 lg:flex ml-auto lg:ml-0 lg:order-2">
             <ThemeChanger />
             <div className="hidden mr-3 lg:flex nav__item">
-              <Link href="/" className="px-6 py-2 text-white bg-green-600 rounded-md md:ml-5">
-                Get Started
+              <Link href="https://phantom.app/" className="px-6 py-2 text-white bg-green-600 rounded-md md:ml-5">
+                DL Phantom Wallet
               </Link>
             </div>
         </div>

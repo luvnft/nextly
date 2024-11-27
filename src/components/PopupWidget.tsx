@@ -129,17 +129,17 @@ export function PopupWidget() {
                     <form onSubmit={handleSubmit(onSubmit)} noValidate>
                       <input
                         type="hidden"
-                        value="YOUR_ACCESS_KEY_HERE"
+                        value="1dff14ec-f8b0-492e-ae29-4594489de220"
                         {...register("apikey")}
                       />
                       <input
                         type="hidden"
-                        value={`${userName} sent a message from Nextly`}
+                        value={`${userName} sent a message from LOVE.HAHZ.LIVE`}
                         {...register("subject")}
                       />
                       <input
                         type="hidden"
-                        value="Nextly Template"
+                        value="LOVE Template"
                         {...register("from_name")}
                       />
                       <input
@@ -275,12 +275,12 @@ export function PopupWidget() {
                         <span>
                           Powered by{" "}
                           <a
-                            href="https://Web3Forms.com"
+                            href="https://hahz.live"
                             className="text-gray-600"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            Web3Forms
+                            HAHZ.LIVE
                           </a>
                         </span>
                       </p>
