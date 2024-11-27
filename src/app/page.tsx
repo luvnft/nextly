@@ -17,12 +17,11 @@ export default function Home() {
         title="IN HAHZ WE TRUST"
       > 
         The HAHZ LOVE Manifestation Game is a positivity-driven social game where
-        players have one job: to keep other holders' vibes high by sharing positive
-        energy in their comments, DMs, or in real life, or even by helping them with
-        something they’re manifesting. In return, the person who receives the positive
-        vibes will tip the player who raised their vibe with HAHZ LOVE to their Solana
-        Phantom wallet (@username). The rule is simple: if you doubt your spiritual wealth,
-        you lose the game. 
+        players have one job: to keep other holders vibes high by sharing positive
+        energy in their comments, DMs, or in real life, or even by helping them manifest
+        In return, the person who receives the positive vibes will tip the player who raised
+        their vibe with HAHZ LOVE to their Solana Phantom wallet (@username). The rule is
+        simple: if you doubt your spiritual wealth, you lose the game. 
       </SectionTitle>
 
       <Benefits data={benefitOne} />
