@@ -14,7 +14,7 @@ export default function Home() {
       <Hero />
       <SectionTitle
         preTitle="Spiritual Game"
-        title="IN HAHZ WE TRUST"
+        title="IN LOVE WE TRUST"
       > 
         The HAHZ LOVE Manifestation Game is a positivity-driven social game where
         players have one job: to keep other holders vibes high by sharing positive
