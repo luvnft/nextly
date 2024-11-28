@@ -8,20 +8,23 @@ import { Faq } from "@/components/Faq";
 import { Cta } from "@/components/Cta";
 
 import { benefitOne, benefitTwo } from "@/components/data";
+
 export default function Home() {
   return (
     <Container>
       <Hero />
+
       <SectionTitle
-        preTitle="Spiritual Game"
+        preTitle="Spiritual 5D Game"
         title="IN LOVE WE TRUST"
-      > 
-        The HAHZ LOVE Manifestation Game is a positivity-driven social game where
-        players have one job: to keep other holders vibes high by sharing positive
-        energy in their comments, DMs, or in real life, or even by helping them manifest
-        In return, the person who receives the positive vibes will tip the player who raised
-        their vibe with HAHZ LOVE to their Solana Phantom wallet (@username). The rule is
-        simple: if you doubt your spiritual wealth, you lose the game. 
+      >
+        <p>
+          The HAHZ LOVE Manifestation Game is a positivity-driven social game where
+          players have one job: to keep other holders' vibes high by sharing positive
+          energy in their comments, DMs, or in real life—even by helping them manifest.
+          In return, the person receiving the positive vibes tips the player who raised
+          their vibe with HAHZ LOVE, sent to their Solana Phantom wallet (@username).
+        </p>
       </SectionTitle>
 
       <Benefits data={benefitOne} />
@@ -31,25 +34,38 @@ export default function Home() {
         preTitle="HOW TO PLAY"
         title="Spirit Game Guide"
       >
-        All you need to play is a Phantom wallet username, some Solana LOVE meme coins, and an imagination fueled by 100% belief.
+        <p>
+          All you need to play is a Phantom wallet username, some Solana LOVE meme coins, 
+          and an imagination fueled by 100% belief.
+        </p>
       </SectionTitle>
 
       <Video videoId="_rhndty3FVk" />
 
       <SectionTitle
         preTitle="ROADMAP"
-        title="Level up"
+        title="Level Up"
       >
-        Playas will join TV.HAHZ.LIVE livestream events where those tapped receive
-        LOVE airdrops, holders receive private invite links to private XO.HAHZ.LIVE
-        channels to receive daily social media challenge assignments.
+        <p>
+          Playas will join 
+          <a href="https://tv.hahz.live" target="_blank" rel="noopener noreferrer">
+            TV.HAHZ.LIVE
+          </a> 
+          livestream events, where selected participants receive LOVE airdrops. Holders
+          will receive private invite links to exclusive 
+          <a href="https://xo.hahz.live" target="_blank" rel="noopener noreferrer">
+            XO.HAHZ.LIVE
+          </a> 
+          channels to participate in daily social media challenge assignments.
+        </p>
       </SectionTitle>
 
       <Testimonials />
 
       <SectionTitle preTitle="FAQ" title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
+        <p>
+          The most common questions asked below.
+        </p>
       </SectionTitle>
 
       <Faq />
