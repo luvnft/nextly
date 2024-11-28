@@ -21,7 +21,7 @@ export function Video({ videoId }: Readonly<VideoProps>) {
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="w-16 h-16  lg:w-28 lg:h-28"
+              className="w-16 h-16 lg:w-28 lg:h-28"
               viewBox="0 0 20 20"
               fill="currentColor"
             >
@@ -36,7 +36,7 @@ export function Video({ videoId }: Readonly<VideoProps>) {
         )}
         {playVideo && (
           <iframe
-            src={`https://www.youtube.com/watch?v=_rhndty3FVk`}
+            src={`https://www.youtube.com/embed/${videoId}`}
             title="HAHZ LOVE GAME"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             className="w-full h-full aspect-video"
