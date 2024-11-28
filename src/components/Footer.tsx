@@ -72,7 +72,7 @@ export function Footer() {
                 <Twitter />
               </a>
               <a
-                href="https://facebook.com/web3templates"
+                href="https://www.facebook.com/share/15Z9yXVLPT/?mibextid=LQQJ4d"
                 target="_blank"
                 rel="noopener"
               >
@@ -80,14 +80,14 @@ export function Footer() {
                 <Facebook />
               </a>
               <a
-                href="https://instagram.com/wizardofhahz"
+                href="https://instagram.com/hahzlove"
                 target="_blank"
                 rel="noopener"
               >
                 <span className="sr-only">Instagram</span>
                 <Instagram />
               </a>
-              <a href="https://tiktok.com/wizardofhahz" target="_blank" rel="noopener">
+              <a href="https://tiktok.com/hahzlove" target="_blank" rel="noopener">
                 <span className="sr-only">TikTok</span>
                 <Linkedin />
               </a>
@@ -101,7 +101,7 @@ export function Footer() {
             Wizard of Hahz.
           </a>{" "}
           Join the game{" "}
-          <a href="https://t.me/live" target="_blank" rel="noopener">
+          <a href="https://t.me/love" target="_blank" rel="noopener">
             Telegram
           </a>
         </div>

@@ -31,17 +31,18 @@ export default function Home() {
         preTitle="HOW TO PLAY"
         title="Spirit Game Guide"
       >
-        All you need is a Phantom wallet username and LOVE meme coins.
+        All you need to play is a Phantom wallet username, some Solana LOVE meme coins, and an imagination fueled by 100% belief.
       </SectionTitle>
 
-      <Video videoId="v=_rhndty3FVk" />
+      <Video videoId="_rhndty3FVk" />
 
       <SectionTitle
         preTitle="ROADMAP"
         title="Level up"
       >
-        Every historic moment in the game is tokenized as a LUV NFT and
-        airdropped to the playa to allow others to support them to earn more LOVE. 
+        Playas will join TV.HAHZ.LIVE livestream events where those tapped receive
+        LOVE airdrops, holders receive private invite links to private XO.HAHZ.LIVE
+        channels to receive daily social media challenge assignments.
       </SectionTitle>
 
       <Testimonials />
