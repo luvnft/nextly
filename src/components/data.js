@@ -8,12 +8,12 @@ const benefitOne = {
   bullets: [
     {
       title: "Phantom",
-      desc: "Use the Phantom TikTok effect to create a reel to let your spiritual followers know your Phantom wallet addy @username so they can airdrop your LOVE. ",
+      desc: "Use the <mark>Phantom</mark> TikTok effect to create a reel to let your spiritual followers know your Phantom wallet addy @username so they can airdrop your LOVE. ",
       icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>👻</span>, // Centered emoji
     },
     {
       title: "Flag",
-      desc: "Plant your HAHZ FLAG TikTok effect locally IRL mapped to a 3 word What3Words.com addy to network with others playas that accept your LOVE.",
+      desc: "Plant your <mark>HAHZ FLAG</mark> TikTok effect locally IRL mapped to a 3 word What3Words.com addy to network with others playas that accept your LOVE.",
       icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>🏁</span>, // Centered emoji
     },
     {

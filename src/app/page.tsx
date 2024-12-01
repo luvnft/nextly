@@ -48,16 +48,14 @@ export default function Home() {
         title="Level Up"
       >
         <p>
-          Playas will join 
-          <a href="https://tv.hahz.live" target="_blank" rel="noopener noreferrer">
+          This game scales by the most active LOVE holders teaching others playas
+          their methods. 
+          📺<a href="https://tv.hahz.live" target="_blank" rel="noopener noreferrer">
             TV.HAHZ.LIVE
-          </a> 
-          livestream events, where selected participants receive LOVE airdrops. Holders
-          will receive private invite links to exclusive 
-          <a href="https://xo.hahz.live" target="_blank" rel="noopener noreferrer">
+          </a>  
+          💬<a href="https://xo.hahz.live" target="_blank" rel="noopener noreferrer">
             XO.HAHZ.LIVE
           </a> 
-          channels to participate in daily social media challenge assignments.
         </p>
       </SectionTitle>
 
