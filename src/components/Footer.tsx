@@ -61,7 +61,7 @@ export function Footer() {
             </div>
           </div>
           <div>
-            <div>Follow HAHZ</div>
+            <div>Follow @HAHZLOVE</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
               <a
                 href="https://twitter.com/hahzlove"
