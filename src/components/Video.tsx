@@ -13,11 +13,12 @@ export function Video({ videoId }: Readonly<VideoProps>) {
 
   return (
     <Container>
-      <div className="relative w-full h-[500px] max-w-4xl mx-auto overflow-hidden lg:mb-20 rounded-2xl bg-green-300 cursor-pointer bg-gradient-to-tr from-purple-400 to-green-700">
+      <div className="relative w-full h-[500px] max-w-4xl mx-auto overflow-hidden lg:mb-20 rounded-2xl bg-gradient-to-tr from-purple-400 to-green-700">
         {!playVideo && (
           <button
-            onClick={() => setPlayVideo(!playVideo)}
-            className="absolute inset-auto w-16 h-16 text-white transform -translate-x-1/2 -translate-y-1/2 lg:w-28 lg:h-28 top-1/2 left-1/2"
+            onClick={() => setPlayVideo(true)}
+            className="absolute inset-auto w-16 h-16 text-white transform -translate-x-1/2 -translate-y-1/2 lg:w-28 lg:h-28 top-1/2 left-1/2 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2"
+            aria-label="Play Video"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -31,15 +32,15 @@ export function Video({ videoId }: Readonly<VideoProps>) {
                 clipRule="evenodd"
               />
             </svg>
-            <span className="sr-only">Play Video</span>
           </button>
         )}
         {playVideo && (
           <iframe
-            src={`https://www.youtube.com/embed/${videoId}`}
-            title="HAHZ LOVE GAME"
+            src={`https://www.youtube.com/embed/${videoId}?autoplay=1`}
+            title="HAHZ LOVE GAME Video"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            className="w-full h-full aspect-video"
+            allowFullScreen
+            className="absolute top-0 left-0 w-full h-full"
           ></iframe>
         )}
       </div>

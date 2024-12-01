@@ -16,14 +16,14 @@ export default function Home() {
 
       <SectionTitle
         preTitle="Spiritual 5D Game"
-        title="IN LOVE WE TRUST"
+        title="PURPOSE ECONOMY"
       >
         <p>
-          The HAHZ LOVE Manifestation Game is a positivity-driven social game where
-          players have one job: to keep other holders' vibes high by sharing positive
-          energy in their comments, DMs, or in real life—even by helping them manifest.
-          In return, the person receiving the positive vibes tips the player who raised
-          their vibe with HAHZ LOVE, sent to their Solana Phantom wallet (@username).
+          The purpose economy works different than the profit economy focused on
+          building brands to sell. This social game teaches playas how to manifest
+          spiritual wealth, find your purpose and build your LOVE SOL credit score.
+          Find other playas on social media that create, repost and engage with HAHZ
+          LOVE meme content to create a new trending LOVE algorithm.
         </p>
       </SectionTitle>
 
@@ -35,8 +35,9 @@ export default function Home() {
         title="Spirit Game Guide"
       >
         <p>
-          All you need to play is a Phantom wallet username, some Solana LOVE meme coins, 
-          and an imagination fueled by 100% belief.
+          All you need to play is a Phantom wallet username, some Solana LOVE memecoins, 
+          and an imagination fueled by 100% belief. The #1 viral game TikTok effect content
+          becomes the featured video. Create HAHZ memes for LOVE.
         </p>
       </SectionTitle>
 

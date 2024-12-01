@@ -13,9 +13,9 @@ export const Hero = () => {
               WEALTH WITH LOVE LIKE HAHZ
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              HAHZ LOVE isn’t just a viral Solana memecoin—it’s a social
-              media manifestation game where holders learn to become
-              spiritually wealthy by giving LOVE vibes to each other.
+              💫 HAHZ LOVE: The Solana memecoin game for all the manifesting playas!
+              ✨ Level up your spiritual wealth by sharing the most 🫶 LOVE with other playas.
+              👻 Drop your Phantom wallet username (@) to vibe ⚡️ with daily 💭 HAHZ content.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
@@ -24,7 +24,7 @@ export const Hero = () => {
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-green-600 rounded-md ">
-                BUY HAHZ LOVE
+                2️⃣ Buy LOVE
               </a>
               <a
                 href="https://t.me/hahzlove"
@@ -32,7 +32,7 @@ export const Hero = () => {
                 rel="noopener"
                 className="flex items-center space-x-2 text-gray-500 dark:text-gray-400">
                 <title>Telegram</title>
-                <span>Join Telegram</span>
+                <span>3️⃣ Join Telegram</span>
               </a>
             </div>
           </div>
@@ -54,7 +54,7 @@ export const Hero = () => {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            ONE <span className="text-green-600">LOVE</span>{" "}
+            IN <span className="text-green-600">LOVE</span> WE TRUST{" "}
           </div>
         </div>
       </Container>

@@ -37,7 +37,7 @@ export const Navbar = () => {
             <ThemeChanger />
             <div className="hidden mr-3 lg:flex nav__item">
               <Link href="https://phantom.app/" className="px-6 py-2 text-white bg-green-600 rounded-md md:ml-5">
-                DL Phantom Wallet
+               1️⃣ DL Phantom Wallet
               </Link>
             </div>
         </div>

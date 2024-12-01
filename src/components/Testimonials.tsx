@@ -27,8 +27,8 @@ export const Testimonials = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Earn branded <Mark>TikTok AR</Mark> effects and LUV NFTs for winning
-              HAHZ meme coin challenges.
+              Earn LOVE for playing HAHZ <Mark>TikTok AR Effect</Mark> games. Reedeem your LOVE for in-house
+              branded services such as branded NFTs that allow playas to accept crypto for their products/services.
             </p>
 
             <Avatar
@@ -42,7 +42,7 @@ export const Testimonials = () => {
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
               Level up and earn a LOVE <Mark>Solana QR POS</Mark> with a branded
-              HAHZ.live subdomain and your Phantom Username added our Link in bio.
+              HAHZ.live subdomain and your Phantom Username added to our Link in bio.
             </p>
 
             <Avatar
