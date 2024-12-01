@@ -32,7 +32,7 @@ export default function Home() {
 
       <SectionTitle
         preTitle="HOW TO PLAY"
-        title="Spirit Game Guide"
+        title="You can only lose with doubt"
       >
         <p>
           All you need to play is a Phantom wallet username, some Solana LOVE memecoins, 
