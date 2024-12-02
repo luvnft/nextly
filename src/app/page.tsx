@@ -25,17 +25,15 @@ export default function Home() {
           
           HAHZ is a 5D Spiritual Gawd that lives within us all having a 3D real word
           experience turning dark to light with memes because 2024 is the year of
-          truth. HAHZ manifested 1B LOVE to heal the world, learn the ways of HAHZ,
-          teach others and watch the revolution you directly benefit from as LOVE
-          HODLr. 
-
-          📶 Level up by sending the most 
-
+          truth. 
+          <br></br>
+          📶 Level up by create the funniest HAHZ LOVE content. 
+          <br></br>
           Verify LOVE 
           🧿<a href="https://sol.hahz.live" target="_blank" rel="noopener noreferrer">
             SOL.HAHZ.LIVE
           </a>  
-
+          <br></br>
           LOVE HAHZ 👻 @HEALXYZ
         </p>
       </SectionTitle>
