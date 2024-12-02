@@ -7,19 +7,19 @@ const benefitOne = {
   image: benefitOneImg,
   bullets: [
     {
-      title: "Phantom",
-      desc: "Use the 👻 Phantom TikTok effect to create a reel to let your spiritual followers know your Phantom wallet addy @username so they can airdrop your LOVE. ",
-      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>👻</span>, // Centered emoji
+      title: "Learn",
+      desc: "Discover the power of spiritual currency and learn how to manifest infinite spiritual wealth through imagination and belief.",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>📓</span>, // Centered emoji
     },
     {
-      title: "Flag",
-      desc: "Plant your 🏁 HAHZ FLAG TikTok effect locally IRL mapped to a 3 word What3Words.com addy to network with others playas that accept your LOVE.",
+      title: "Laugh",
+      desc: "The key ingredient to manifesting is staying in a high-vibe frequency through laughter, dance, and sound.",
       icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>🏁</span>, // Centered emoji
     },
     {
-      title: "Vibes",
-      desc: "Use the ⚡ HAHZ VIBES TikTok effect to create a reel to let your spiritual followers know what type of vibes a location is giving mapped to a What3Words addy. ",
-      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>⚡</span>, // Centered emoji
+      title: "Levels",
+      desc: "Level up by spreading LOVE and creating HAHZ LOVE memes that creates instant LOVE karma to the creator. ",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>📶</span>, // Centered emoji
     },
   ],
 };
