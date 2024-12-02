@@ -1,5 +1,5 @@
-import benefitOneImg from "../../public/img/benefit-one.png";
-import benefitTwoImg from "../../public/img/benefit-two.png";
+import benefitOneImg from "../../public/img/benefit-one.webp";
+import benefitTwoImg from "../../public/img/benefit-two.webp";
 
 const benefitOne = {
   title: "HAHZ",
