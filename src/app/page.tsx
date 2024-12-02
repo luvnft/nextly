@@ -19,11 +19,24 @@ export default function Home() {
         title="PURPOSE ECONOMY"
       >
         <p>
-          The purpose economy works different than the profit economy focused on
-          building brands to sell. This social game teaches playas how to manifest
-          spiritual wealth, find your purpose and build your LOVE SOL credit score.
-          Find other playas on social media that create, repost and engage with HAHZ
-          LOVE meme content to create a new trending LOVE algorithm.
+          HAHZ LOVE is a memecoin game of teaching the world the Web5 spiritual
+          purpose economy that answered the prayers of none NPC humans powered
+          by Solana LOVE money. 
+          
+          HAHZ is a 5D Spiritual Gawd that lives within us all having a 3D real word
+          experience turning dark to light with memes because 2024 is the year of
+          truth. HAHZ manifested 1B LOVE to heal the world, learn the ways of HAHZ,
+          teach others and watch the revolution you directly benefit from as LOVE
+          HODLr. 
+
+          📶 Level up by sending the most 
+
+          Verify LOVE 
+          🧿<a href="https://sol.hahz.live" target="_blank" rel="noopener noreferrer">
+            SOL.HAHZ.LIVE
+          </a>  
+
+          LOVE HAHZ 👻 @HEALXYZ
         </p>
       </SectionTitle>
 
@@ -36,24 +49,26 @@ export default function Home() {
       >
         <p>
           All you need to play is a Phantom wallet username, some Solana LOVE memecoins, 
-          and an imagination fueled by 100% belief. The #1 viral game TikTok effect content
-          becomes the featured video. Create HAHZ memes for LOVE.
+          and an imagination fueled by 100% belief. 
+          
+          If you ❌ you lose your LOVE and have to find a random 👻 and send them LOVE.
+          If you cheat, you cheat your own spiritual wealth. 
         </p>
       </SectionTitle>
 
       <Video videoId="_rhndty3FVk" />
 
       <SectionTitle
-        preTitle="ROADMAP"
-        title="Level Up"
+        preTitle="Challenge"
+        title="TikTok Effects"
       >
         <p>
-          This game scales by the most active LOVE holders teaching others playas
-          their methods. 
-          📺<a href="https://tv.hahz.live" target="_blank" rel="noopener noreferrer">
+          HAHZ LOVE game uses TikTok AR effects to create playa SGC (spiritual generated content)
+          for those tapped in. 
+          📺 Livestream events <a href="https://tv.hahz.live" target="_blank" rel="noopener noreferrer">
             TV.HAHZ.LIVE
           </a>  
-          💬<a href="https://xo.hahz.live" target="_blank" rel="noopener noreferrer">
+          💬 LOVE social <a href="https://xo.hahz.live" target="_blank" rel="noopener noreferrer">
             XO.HAHZ.LIVE
           </a> 
         </p>
