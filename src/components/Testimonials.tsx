@@ -13,42 +13,45 @@ export const Testimonials = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Text <Mark>HAHZ</Mark> at (470) 762-9442 about anything questions about
-              the game or how to become spiritually wealthy. Coming soon.
+              After you top up your Phantom wallet with LOVE, create a TikTok reel
+              using the <Mark>HAHZ FLAG</Mark> letting your spiritual followers know
+              your not a NPC character and discover local playas near you. 
             </p>
 
             <Avatar
               image={userOneImg}
-              name="SMS"
-              title="Text HAHZ"
+              name="#️⃣HAHZFLAG"
+              title="HAHZ FLAG"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Earn LOVE for playing HAHZ <Mark>TikTok AR Effect</Mark> games. Reedeem your LOVE for in-house
-              branded services such as branded NFTs that allow playas to accept crypto for their products/services.
+              Nobody got time for boring black-and-white business reviews! Use the <Mark>HAHZ VIBES</Mark>
+              TikTok AR Effect to leave a spiritual review sharing the vibes of a location. Drop your
+              Phantom 👻 @username to earn LOVE from other players who appreciate your ReelView. 
             </p>
 
             <Avatar
               image={userTwoImg}
-              name="TikTok"
-              title="Branded AR effects"
+              name="#️⃣HAHZVIBES"
+              title="HAHZ VIBES"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Level up and earn a LOVE <Mark>Solana QR POS</Mark> with a branded
-              HAHZ.live subdomain and your Phantom Username added to our Link in bio.
+              Phantom wallet is your Web5 public game account and all playas need to
+              have is your 👻 @username to airdrop your LOVE to expedite their manifestation
+              Use the <Mark>Phantom</Mark> TikTok AR Effect to promote your 👻 @username.
             </p>
 
             <Avatar
               image={userThreeImg}
-              name="POS"
-              title="Solana POS"
+              name="#️⃣HAHZPAY"
+              title="Phantom"
             />
           </div>
         </div>

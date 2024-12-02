@@ -62,7 +62,10 @@ export default function Home() {
       >
         <p>
           HAHZ LOVE game uses TikTok AR effects to create playa SGC (spiritual generated content)
-          for those tapped in. 
+          for those tapped in. Use the HAHZ TAG and tag @hahzlove for a chance to get your story
+          reposted! The reel with the most monthly views wins 🥰 11M LOVE, a featured spot for the
+          TikTok AR Effect, and a branded Solana NFT Osiris 🏆 award airdropped straight to you.
+          <br></br>
           📺 Livestream events <a href="https://tv.hahz.live" target="_blank" rel="noopener noreferrer">
             TV.HAHZ.LIVE
           </a>  
