@@ -19,12 +19,9 @@ export default function Home() {
         title="PURPOSE ECONOMY"
       >
         <p>
-          HAHZ LOVE is a memecoin game of teaching the world the Web5 spiritual
-          purpose economy that has one job spread of spreading Solana LOVE money.
-          by Solana LOVE money. 
-          <br></br>
-          📶 Level up by create the funniest HAHZ LOVE TikTok AR Effect content. 
-          <br></br>
+          HAHZ LOVE is a Solana memecoin spiritual game of spreading LOVE
+          to other playas and converting negative IRL experiences to positive
+          ones with Spiritual Gawd memes.
         </p>
       </SectionTitle>
 
@@ -36,8 +33,8 @@ export default function Home() {
         title="You can only lose with doubt"
       >
         <p>
-          All you need to play is a Phantom wallet username, some Solana LOVE memecoins, 
-          and an imagination fueled by 100% belief. 
+          Create a Phantom wallet username, HODL Solana LOVE memecoins, 
+          and use your imagination with 100% belief in your spiritual wealth. 
           <br></br>
         </p>
       </SectionTitle>
@@ -49,16 +46,11 @@ export default function Home() {
         title="TikTok Effects"
       >
         <p>
-          HAHZ LOVE game uses TikTok AR effects to create playa SGC (spiritual generated content)
-          for those tapped in. Use the HAHZ TAG and tag @hahzlove for a chance to get your story
-          reposted! The reel with the most monthly views wins 🥰 11M LOVE, a featured spot for the
-          TikTok AR Effect, and a branded Solana NFT Osiris 🏆 award airdropped straight to you.
+          HAHZ LOVE game uses TikTok AR effects to create SGC (spiritual generated content) meme.
+          Use the HAHZ TAG and tag @hahzlove for a chance to get your reel reposted! The reel
+          with the most monthly views wins 🥰 11M LOVE, a featured spot for the TikTok AR Effect,
+          and a branded Solana NFT Osiris 🏆 award airdropped straight to you.
           <br></br>
-          📺 Livestream events <a href="https://tv.hahz.live" target="_blank" rel="noopener noreferrer">
-            TV.HAHZ.LIVE
-          </a>  
-          💬 LOVE social <a href="https://xo.hahz.live" target="_blank" rel="noopener noreferrer">
-            XO.HAHZ.LIVE
           </a> 
         </p>
       </SectionTitle>
@@ -67,7 +59,7 @@ export default function Home() {
 
       <SectionTitle preTitle="FAQ" title="Frequently Asked Questions">
         <p>
-          The most common questions asked below.
+          FAQ asked below.
         </p>
       </SectionTitle>
 
