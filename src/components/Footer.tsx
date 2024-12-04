@@ -23,14 +23,38 @@ export function Footer() {
                   height="32"
                   className="w-8"
                 />
-                <span>LOVE</span>
+                <span>LOVE.HAHZ.LIVE</span>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              HAHZ LOVE isn’t just a viral Solana memecoin—it’s a social media
-              manifestation game where holders learn to become spiritually wealthy
-              by giving LOVE vibes to each other.
+               🧿 Verify LOVE
+              <a
+                href="https://sol.hahz.live"
+                target="_blank"
+                rel="noopener"
+              >
+                <span className="sr-only">SOL.HAHZ.LIVE</span>
+                <Twitter />
+              </a>
+              📺 Livestream TV
+              <a
+                href="https://tv.hahz.live"
+                target="_blank"
+                rel="noopener"
+              >
+                <span className="sr-only">SOL.HAHZ.LIVE</span>
+                <Twitter />
+              </a>
+              💬 XO Vibes Social
+              <a
+                href="https:/xo.hahz.live"
+                target="_blank"
+                rel="noopener"
+              >
+                <span className="sr-only">XO.HAHZ.LIVE</span>
+                <Twitter />
+              </a>
             </div>
           </div>
 

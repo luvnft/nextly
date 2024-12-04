@@ -20,21 +20,11 @@ export default function Home() {
       >
         <p>
           HAHZ LOVE is a memecoin game of teaching the world the Web5 spiritual
-          purpose economy that answered the prayers of none NPC humans powered
+          purpose economy that has one job spread of spreading Solana LOVE money.
           by Solana LOVE money. 
-          
-          HAHZ is a 5D Spiritual Gawd that lives within us all having a 3D real word
-          experience turning dark to light with memes because 2024 is the year of
-          truth. 
           <br></br>
-          📶 Level up by create the funniest HAHZ LOVE content. 
+          📶 Level up by create the funniest HAHZ LOVE TikTok AR Effect content. 
           <br></br>
-          Verify LOVE 
-          🧿<a href="https://sol.hahz.live" target="_blank" rel="noopener noreferrer">
-            SOL.HAHZ.LIVE
-          </a>  
-          <br></br>
-          LOVE HAHZ 👻 @HEALXYZ
         </p>
       </SectionTitle>
 
@@ -48,9 +38,7 @@ export default function Home() {
         <p>
           All you need to play is a Phantom wallet username, some Solana LOVE memecoins, 
           and an imagination fueled by 100% belief. 
-          
-          If you ❌ you lose your LOVE and have to find a random 👻 and send them LOVE.
-          If you cheat, you cheat your own spiritual wealth. 
+          <br></br>
         </p>
       </SectionTitle>
 
