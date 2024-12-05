@@ -1,4 +1,4 @@
-import { Container } from "@/components/Container";
+import { Container } from "@/components/Container"; // Ensure the path is correct
 import { Hero } from "@/components/Hero";
 import { SectionTitle } from "@/components/SectionTitle";
 import { Benefits } from "@/components/Benefits";
@@ -13,54 +13,45 @@ export default function Home() {
   return (
     <Container>
       <Hero />
-
-      <SectionTitle
-        preTitle="Spiritual 5D Game"
-        title="PURPOSE ECONOMY"
-      >
+      <SectionTitle preTitle="Spiritual 5D Game" title="PURPOSE ECONOMY">
         <p>
-          HAHZ LOVE is a Solana memecoin spiritual game of spreading LOVE
-          to other playas and converting negative IRL experiences to positive
-          ones with Spiritual Gawd memes.
+          HAHZ LOVE is a Web5 purpose-driven memecoin game designed to make every
+          VC (Vibe Capitalist) spiritually wealthy by embracing 💯% belief, staying
+          in high vibes, and having fun. 
         </p>
       </SectionTitle>
 
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
 
-      <SectionTitle
-        preTitle="HOW TO PLAY"
-        title="You can only lose with doubt"
-      >
+      <SectionTitle preTitle="HOW TO PLAY" title="You can only lose with doubt">
         <p>
-          Create a Phantom wallet username, HODL Solana LOVE memecoins, 
-          and use your imagination with 100% belief in your spiritual wealth. 
-          <br></br>
+          VC playas remix negative real-life experiences into positive ones with
+          HAHZ Spiritual Gawd memes as modern day spiritual therapy. If your meme
+          spiritual bars 📶 uplift a VCs vibe they will send LOVE to your Phantom
+          @username left in the social media post with a 👻. How to start 1️⃣ Download
+          a Phantom wallet app, then create a Phantom username (see video). 2️⃣ Top up
+          your Phantom with SOL 3️⃣ Buy LOVE with SOL to get in the game. 4️⃣ Follow
+          @HAHZLOVE on all socials to learn the game and grow your local tribe.
+          Use your imagination with 100% belief in your spiritual wealth and you won.
         </p>
       </SectionTitle>
 
       <Video videoId="_rhndty3FVk" />
 
-      <SectionTitle
-        preTitle="Challenge"
-        title="TikTok Effects"
-      >
+      <SectionTitle preTitle="Challenge" title="TikTok Effects">
         <p>
-          HAHZ LOVE game uses TikTok AR effects to create SGC (spiritual generated content) meme.
-          Use the HAHZ TAG and tag @hahzlove for a chance to get your reel reposted! The reel
+          HAHZ LOVE game uses TikTok AR effects to create LGC (love-generated content) memes.
+          Use the HAHZ TAG and tag @hahzlove for a chance to get your reel re-posted! The reel
           with the most monthly views wins 🥰 11M LOVE, a featured spot for the TikTok AR Effect,
-          and a branded Solana NFT Osiris 🏆 award airdropped straight to you.
-          <br></br>
-          </a> 
+          and a branded Solana NFT Osiris 🏆 award airdropped straight to your 👻 account.
         </p>
       </SectionTitle>
 
       <Testimonials />
 
       <SectionTitle preTitle="FAQ" title="Frequently Asked Questions">
-        <p>
-          FAQ asked below.
-        </p>
+        <p>FAQ asked below.</p>
       </SectionTitle>
 
       <Faq />

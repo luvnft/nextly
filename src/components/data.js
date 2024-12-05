@@ -8,17 +8,17 @@ const benefitOne = {
   bullets: [
     {
       title: "Learn",
-      desc: "Discover the power of spiritual currency and learn how to manifest infinite spiritual wealth through imagination and belief.",
-      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>📓</span>, // Centered emoji
+      desc: "The game is explained on @HAHZLOVE socials daily with short reels, those who are tapped in level up faster.",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>✨</span>, // Centered emoji
     },
     {
-      title: "Laugh",
-      desc: "The key ingredient to manifesting is staying in a high-vibe frequency through laughter, dance, and sound.",
-      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>🏁</span>, // Centered emoji
+      title: "Claim It",
+      desc: "Claiming a @HAHZLOVE social media post first with a 👻 @username earns VCs LOVE to airdrop to others ☔ below who claim it.",
+      icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>💬</span>, // Centered emoji
     },
     {
       title: "Levels",
-      desc: "Level up by spreading LOVE and creating HAHZ LOVE memes that creates instant LOVE karma to the creator. ",
+      desc: "VCs level up by 1️⃣ One LOVE = One 🆙. Create HAHZ LOVE memes to earn LOVE, drop memes in the @HAHZLOVE Telegram channel.",
       icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>📶</span>, // Centered emoji
     },
   ],
@@ -30,8 +30,8 @@ const benefitTwo = {
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Purpose",
-      desc: "LOVE fuels the purpose-driven creator economy, serving as the blueprint for a fulfilling SOL-based career as a Web5 happiness engineer, working remotely alongside a global staff.  ",
+      title: "Accept LOVE",
+      desc: "Accept LOVE for your biz and @HAHZLOVE will promote your historic use case so other VCs know where their LOVE is accepted around the world.",
       icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>💼</span>, // Centered emoji
     },
     {
@@ -40,8 +40,8 @@ const benefitTwo = {
       icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>🫶</span>, // Centered emoji
     },
     {
-      title: "Create",
-      desc: "Create HAHZ meme content daily that radiates the LOVE you HODL, spreading positivity and earning more LOVE. Show the world that LOVE is the new 5D currency and you win the game IRL. Get inspo from reading other HAHZ TAGS to create a LOVE algorithm of playas.",
+      title: "LOVE Language",
+      desc: "Network with other VCs who speak your LOVE language, gain followers for posting HAHZ LOVE content and contribute to a new LOVE social media algorithm.",
       icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>♻️</span>, // Centered emoji
     },
   ],
