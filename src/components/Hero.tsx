@@ -13,9 +13,9 @@ export const Hero = () => {
               WEALTH WITH LOVE LIKE HAHZ
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              💫 HAHZ LOVE: The Solana memecoin game for all the manifesting playas!
-              ✨ Level up your spiritual wealth by sharing the most 🫶 LOVE with other playas.
-              👻 Drop your Phantom wallet username (@) to vibe ⚡️ with daily 💭 HAHZ content.
+              💫 HAHZ LOVE: Is social Solana memecoin manifesting game for worldwide VCs (Vibe Capitalists).
+              📶 Level 🆙 your ✨ spiritual wealth by ⚡️ airdropping 🫶 LOVE to other VCs 👻 Phantom wallet @username
+              who claim their ✨ wealth in @HAHZLOVE social media posts comments. 
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
