@@ -28,29 +28,34 @@ export function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-               🧿 Verify LOVE
+              <p className="mb-2">🧿 Verify LOVE</p>
               <a
                 href="https://sol.hahz.live"
                 target="_blank"
                 rel="noopener"
+                className="block mb-4"
               >
-                <span className="sr-only">SOL.HAHZ.LIVE</span>
+                SOL.HAHZ.LIVE
               </a>
-              📺 Livestream TV
+              <br></br>
+              <p className="mb-2">📺 Livestream TV</p>
               <a
                 href="https://tv.hahz.live"
                 target="_blank"
                 rel="noopener"
+                className="block mb-4"
               >
-                <span className="sr-only">SOL.HAHZ.LIVE</span>
+                TV.HAHZ.LIVE
               </a>
-              💬 XO Vibes Social
+              <br></br>
+              <p className="mb-2">💬 XO Vibes Social</p>
               <a
                 href="https:/xo.hahz.live"
                 target="_blank"
                 rel="noopener"
+                className="block mb-4"
               >
-                <span className="sr-only">XO.HAHZ.LIVE</span>
+                XO.HAHZ.LIVE
               </a>
             </div>
           </div>
@@ -68,6 +73,7 @@ export function Footer() {
               ))}
             </div>
           </div>
+
           <div>
             <div className="flex flex-wrap w-full -mt-2 -ml-3 lg:ml-0">
               {legal.map((item, index) => (
@@ -81,6 +87,7 @@ export function Footer() {
               ))}
             </div>
           </div>
+
           <div>
             <div>Follow @HAHZLOVE</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
@@ -108,7 +115,11 @@ export function Footer() {
                 <span className="sr-only">Instagram</span>
                 <Instagram />
               </a>
-              <a href="https://tiktok.com/hahzlove" target="_blank" rel="noopener">
+              <a
+                href="https://tiktok.com/hahzlove"
+                target="_blank"
+                rel="noopener"
+              >
                 <span className="sr-only">TikTok</span>
                 <Linkedin />
               </a>
@@ -163,7 +174,7 @@ const Instagram = ({ size = 24 }) => (
     viewBox="0 0 24 24"
     fill="currentColor"
   >
-    <path d="M16.98 0a6.9 6.9 0 0 1 5.08 1.98A6.94 6.94 0 0 1 24 7.02v9.96c0 2.08-.68 3.87-1.98 5.13A7.14 7.14 0 0 1 16.94 24H7.06a7.06 7.06 0 0 1-5.03-1.89A6.96 6.96 0 0 1 0 16.94V7.02C0 2.8 2.8 0 7.02 0h9.96zm.05 2.23H7.06c-1.45 0-2.7.43-3.53 1.25a4.82 4.82 0 0 0-1.3 3.54v9.92c0 1.5.43 2.7 1.3 3.58a5 5 0 0 0 3.53 1.25h9.88a5 5 0 0 0 3.53-1.25 4.73 4.73 0 0 0 1.4-3.54V7.02a5 5 0 0 0-1.3-3.49 4.82 4.82 0 0 0-3.54-1.3zM12 5.76c3.39 0 6.2 2.8 6.2 6.2a6.2 6.2 0 0 1-12.4 0 6.2 6.2 0 0 1 6.2-6.2zm0 2.2c-2.15 0-3.94 1.79-3.94 3.94 0 2.16 1.79 3.94 3.94 3.94 2.15 0 3.94-1.79 3.94-3.94 0-2.15-1.79-3.94-3.94-3.94zm7.18-1.94a1.3 1.3 0 0 1 1.29 1.3 1.3 1.3 0 0 1-1.3 1.3 1.3 1.3 0 0 1-1.3-1.3c0-.72.58-1.3 1.3-1.3z" />
+    <path d="M16.98 0a6.9 6.9 0 0 1 5.08 1.98A6.94 6.94 0 0 1 24 7.02v9.96c0 2.08-.68 3.87-1.98 5.13A7.14 7.14 0 0 1 16.94 24H7.06a7.06 7.06 0 0 1-5.03-1.89A6.96 6.96 0 0 1 0 16.94V7.02C0 2.8 2.8 0 7.02 0h9.96zm.05 2.23H7.06c-1.45 0-2.7.43-3.53 1.25a4.82 4.82 0 0 0-1.3 3.55v9.96c0 1.5.47 2.74 1.3 3.57.82.85 2.03 1.33 3.55 1.33h9.96a5.1 5.1 0 0 0 3.63-1.34 4.94 4.94 0 0 0 1.28-3.53V7.02c0-1.4-.43-2.6-1.25-3.53-.9-.86-2.15-1.3-3.57-1.3zm-4.97 4.18a5.84 5.84 0 0 1 4.18 1.72 5.88 5.88 0 0 1 1.72 4.18 5.84 5.84 0 0 1-1.72 4.18 5.88 5.88 0 0 1-4.18 1.72 5.84 5.84 0 0 1-4.18-1.72 5.84 5.84 0 0 1-1.72-4.18 5.88 5.88 0 0 1 1.72-4.18A5.88 5.88 0 0 1 12.06 6.4zm5.33-1.93a1.35 1.35 0 0 1 1.34 1.34 1.35 1.35 0 0 1-1.34 1.34 1.35 1.35 0 0 1-1.34-1.34 1.35 1.35 0 0 1 1.34-1.34zM12.07 9.2a2.8 2.8 0 1 0 0 5.6 2.8 2.8 0 0 0 0-5.6z" />
   </svg>
 );
 
