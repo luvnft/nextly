@@ -35,8 +35,8 @@ const benefitTwo = {
       icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>💼</span>, // Centered emoji
     },
     {
-      title: "LOVE Challenge",
-      desc: "Create the funniest reel onboarding someone locally using the HAHZ Flag TikTok effect to accept your LOVE in under 30 secs to win 100K in LOVE daily.",
+      title: "LOVE",
+      desc: "LOVE is the blueprint for a healed world, using a social credit score based on purpose as proof of unity. We can all see those who are truly invested in advancing humanity.",
       icon: <span style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>🫶</span>, // Centered emoji
     },
     {

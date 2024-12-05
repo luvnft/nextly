@@ -28,7 +28,7 @@ export const Navbar = () => {
                   className="w-8"
                 />
               </span>
-            <span>LOVE.</span>
+            <span>LOVE.HAHZ.LIVE</span>
           </span>
         </Link>
 

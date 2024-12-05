@@ -35,7 +35,6 @@ export function Footer() {
                 rel="noopener"
               >
                 <span className="sr-only">SOL.HAHZ.LIVE</span>
-                <Twitter />
               </a>
               📺 Livestream TV
               <a
@@ -44,7 +43,6 @@ export function Footer() {
                 rel="noopener"
               >
                 <span className="sr-only">SOL.HAHZ.LIVE</span>
-                <Twitter />
               </a>
               💬 XO Vibes Social
               <a
@@ -53,7 +51,6 @@ export function Footer() {
                 rel="noopener"
               >
                 <span className="sr-only">XO.HAHZ.LIVE</span>
-                <Twitter />
               </a>
             </div>
           </div>
