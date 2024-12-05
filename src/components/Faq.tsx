@@ -37,20 +37,25 @@ export const Faq = () => {
 const faqdata = [
   {
     question: "Where can I buy HAHZ LOVE to manifest spiritual wealth?",
-    answer: "On pump.fun, click the buy HAHZ LOVE button and make sure you have enough SOL in your Phantom wallet.",
+    answer: "On pump.fun, click the buy LOVE button and make sure you have enough SOL in your Phantom wallet.",
   },
   {
     question: "How does this game guarantee that I will become spiritually wealthy?",
     answer: "Because HAHZ manifested a purpose economy to teach others how to manifest spiritual wealth. All you need is belief to become spiritually wealthy.",
   },
   {
-    question: "Memecoins are risky, how is LOVE games different?",
+    question: "Memecoins are risky, how is HAHZ LOVE different?",
     answer:
-      "HAHZ parted the crypto sea by separating Web5 purpose economy from Web3 profit economy to allow others who want to use this advanced tech for a hire purpose of solving real world problems because he is spiritual.",
+      "HAHZ parted the crypto sea by separating Web5 purpose economy from Web3 profit economy to allow others who want to use this advanced tech for a higher purpose of solving real world problems.",
+  },
+  {
+    question: "How do I verify another VCs holding",
+    answer:
+      "Ask them or check their LOVE using https://sol.hahz.live by entering the 18 digital Solana wallet address.",
   },
   {
     question: "Do you offer technical support? ",
     answer:
-      "Yes, LOVE holders can text HAHZ, join our Telegram or Discord to ask questions. Playas earn LOVE for helping others.",
+      "Yes, LOVE holders can text HAHZ, join our Telegram to ask questions via DM on @HAHZLOVE. Playas earn LOVE for helping others.",
   },
 ];
